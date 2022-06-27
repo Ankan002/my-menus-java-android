@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MENUS</string>
+    <string name="my_color_changes_with_menu">My color changes with menu</string>
+    <string name="gamer">Gamer</string>
+    <string name="coder">Coder</string>
+    <string name="long_press_to_change_role">Long Press to Change Role</string>
+</resources>
